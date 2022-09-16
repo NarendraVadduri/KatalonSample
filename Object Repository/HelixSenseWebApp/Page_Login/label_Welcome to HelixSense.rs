@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Welcome to HelixSense</name>
+   <tag></tag>
+   <elementGuidId>60b37726-f355-451a-b5ba-54c4fc899654</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-container']/div/div/div/div/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>56daff6e-16cb-42f8-960b-355fc555190e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to HelixSense!</value>
+      <webElementGuid>12286767-864d-4726-aaed-6a2cdb45e005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-container&quot;)/div[1]/div[@class=&quot;login&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;bg-white p-3 mt-7 opacity-9 col-sm-6 order-sm-1 offset-sm-5 col-md-7 order-md-1 offset-md-4 col-lg-4 order-lg-1 offset-lg-7&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col-sm-9 col-md-9 col-lg-9&quot;]/h3[1]</value>
+      <webElementGuid>6383c953-7de4-4513-9ec6-d6cbaff4c83a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-container']/div/div/div/div/div/div/h3</value>
+      <webElementGuid>03f32531-9551-4be5-935a-f69950b54633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please sign in to your account.'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c6142c9f-9ce9-4e9a-868e-84cc52418e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username or Email*'])[1]/preceding::h3[1]</value>
+      <webElementGuid>b5d88cd8-dbd8-45f5-97ac-748897e8dbd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to HelixSense!']/parent::*</value>
+      <webElementGuid>1d750767-c211-4a48-a155-1c2bcc42f021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>d3e660a5-976a-4db5-8d5c-1a4ac6ff1e5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

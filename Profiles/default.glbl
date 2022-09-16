@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>CBRE-Stage Environment Url</description>
+      <initValue>'https://portal-stage-cbre.helixsense.com/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dynamic Login Account ID</description>
+      <initValue>'UAT111'</initValue>
+      <name>QA_AccountID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> Username</description>
+      <initValue>'srujana@71.com'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> Password</description>
+      <initValue>'srujana@71.com'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Short Wait Time</description>
+      <initValue>5</initValue>
+      <name>ShortWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Medium Wait Time</description>
+      <initValue>10</initValue>
+      <name>MediumWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Long Wait Time</description>
+      <initValue>15</initValue>
+      <name>LongWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>referencePerformingId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>randomValueForHelpdeskTicketSelection</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

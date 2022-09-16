@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login into the helix sense web application</description>
+   <name>DynamicLoginTraditionalUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>468a3aa7-e974-4673-b70b-52fd322830a0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66ff238b-188d-4292-bd84-dcec0ddf62b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'All Buildings'</defaultValue>
+      <description></description>
+      <id>66ff238b-188d-4292-bd84-dcec0ddf62b0</id>
+      <masked>false</masked>
+      <name>LoginSuccess</name>
+   </variable>
+</TestCaseEntity>

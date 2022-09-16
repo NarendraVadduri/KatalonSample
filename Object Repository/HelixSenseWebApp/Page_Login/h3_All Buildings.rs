@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_All Buildings</name>
+   <tag></tag>
+   <elementGuidId>7edc6c7c-8b54-4fed-b6ae-ad321ee85f5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-container']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-grey</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>0b7dccd4-164d-4732-ada0-de5400c6ad36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-grey</value>
+      <webElementGuid>8dd12fa7-5587-43a1-8715-e34894207243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Buildings</value>
+      <webElementGuid>d48626d1-67f1-4e62-bb55-a899beb19714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-container&quot;)/div[1]/div[1]/div[@class=&quot;m-0 page-actions-header&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;m-0 pt-2 pb-3 row&quot;]/div[@class=&quot;pr-1 pl-1 col-12 col-sm-12 col-md-12 col-lg-6&quot;]/div[@class=&quot;m-0 bg-azure p-3 row&quot;]/div[@class=&quot;p-0 col-12 col-sm-12 col-md-12 col-lg-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-12 col-lg-5&quot;]/h3[@class=&quot;text-grey&quot;]</value>
+      <webElementGuid>1223d08b-a633-495d-b32c-effc4b83a050</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-container']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>1c127331-7d1c-4000-a3fa-76977596a7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Site'])[1]/following::h3[1]</value>
+      <webElementGuid>324fdbb7-954c-45d5-990c-01cf44c6d2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List View'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0c6ffeb9-4e1a-41a7-a56b-a6dafe75ce2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map View'])[1]/preceding::h3[1]</value>
+      <webElementGuid>544ee93d-2f8c-4200-b6f9-7ff98d00203f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Buildings']/parent::*</value>
+      <webElementGuid>224b20f4-b5e4-4806-81ee-acad175063f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>c8236a98-a100-4f61-93ca-8aad2c3124fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

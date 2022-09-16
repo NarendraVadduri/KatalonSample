@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify logout</description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df43fb75-10fa-4552-89c1-826095015f88</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd4fb64b-2101-4368-9503-7427fd5c34f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Welcome Back!'</defaultValue>
+      <description></description>
+      <id>fd4fb64b-2101-4368-9503-7427fd5c34f6</id>
+      <masked>false</masked>
+      <name>SignInWelomeMessage</name>
+   </variable>
+</TestCaseEntity>
